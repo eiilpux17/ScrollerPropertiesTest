@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/agenda.svg</file>
+        <file>icons/bar-chart.svg</file>
+        <file>icons/bell.svg</file>
+        <file>icons/browser-1.svg</file>
+        <file>icons/cursor.svg</file>
+        <file>icons/file-3.svg</file>
+        <file>icons/flask.svg</file>
+        <file>icons/graphic-tool.svg</file>
+        <file>icons/head.svg</file>
+        <file>icons/highlighter.svg</file>
+        <file>icons/levels.svg</file>
+        <file>icons/medal.svg</file>
+        <file>icons/monitor.svg</file>
+        <file>icons/online-shop.svg</file>
+        <file>icons/paint-brush.svg</file>
+        <file>icons/paint-roller.svg</file>
+        <file>icons/pantone.svg</file>
+        <file>icons/pie-chart.svg</file>
+        <file>icons/settings.svg</file>
+        <file>icons/traffic-light.svg</file>
+        <file>style.qss</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,20 @@
+﻿
+QListView{
+    font-family: 'microsoft yahei';
+    font-size: 15px;
+}
+
+QListView::item{
+    border: 0px solid;
+    padding: 10px;
+}
+
+QListView::item:hover{
+    background: #D6F8FF;
+}
+
+QListView::item:selected{
+    background: #A5E3F0;
+    color: black;
+}
+
